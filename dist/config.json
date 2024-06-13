@@ -1,0 +1,10 @@
+{
+  "discordHost": "canary.discord.com",
+  "discordToken": "",
+  "guildId": "",
+  "channelId": "",
+  "gatewayUrl": "wss://gateway.discord.gg/?v=9&encoding=json&shard=0&shardcount=1&region=tr-west",
+  "os": "linux",
+  "browser": "Maxthon",
+  "device": "maflex"
+}
